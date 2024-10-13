@@ -26,7 +26,7 @@ This Spring Boot application provides a service for handling CRUD operations (Cr
 
 # Clone the repository
 ```bash
-git clone https://github.com/your-repo/spring-boot-product-service.git
+https://github.com/Prathamesh-Jagtap/Redis-Caching-SpringBoot.git
 cd spring-boot-product-service
 ```
 
